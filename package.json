@@ -1,0 +1,18 @@
+{
+  "name": "tk103-simulator",
+  "version": "0.0.1",
+  "description": "TCP Tk103 ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "tcp",
+    "server",
+    "tk103",
+    "gps"
+  ],
+  "author": "Jonathan Vilella",
+  "license": "ISC"
+}
